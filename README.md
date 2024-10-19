@@ -1,1 +1,1 @@
-A Mess Store.
+A Messy Store.
